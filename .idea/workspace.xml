@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="749de4cf-c1b1-4e04-b0f7-8fbee1ed7867" name="Default Changelist" comment="&quot;My Viber Automation&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ViberTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="183" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Viber" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ePUqr9DKZPfqSEufUCZCbndNSz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5154639" />
+  </component>
+  <component name="RunManager" selected="TestNG.ViberTest.myFirstTest">
+    <configuration name="BaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseTest" />
+      <module name="Viber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ViberTest" />
+      <module name="Viber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViberTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Viber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ViberTest" />
+      <option name="METHOD_NAME" value="myFirstTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViberTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Viber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ViberTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViberTest.myFirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Viber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ViberTest" />
+      <option name="METHOD_NAME" value="myFirstTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ViberTest.myFirstTest" />
+        <item itemvalue="TestNG.ViberTest" />
+        <item itemvalue="Application.ViberTest" />
+        <item itemvalue="TestNG.ViberTest (1)" />
+        <item itemvalue="Application.BaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="749de4cf-c1b1-4e04-b0f7-8fbee1ed7867" name="Default Changelist" comment="" />
+      <created>1594222914603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594222914603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;My Viber Automation&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;My Viber Automation&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="34" key="#Project_Structure" timestamp="1594334793993">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="283" y="34" key="#Project_Structure/0.23.1366.691@0.23.1366.691" timestamp="1594334793993" />
+    <state x="100" y="123" width="1166" height="491" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594332879583">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="100" y="123" width="1166" height="491" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1366.691@0.23.1366.691" timestamp="1594332879583" />
+    <state x="573" y="79" key="#xdebugger.evaluate" timestamp="1594307369285">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="573" y="79" key="#xdebugger.evaluate/0.23.1366.691@0.23.1366.691" timestamp="1594307369285" />
+    <state x="328" y="23" key="CommitChangelistDialog2" timestamp="1594335824789">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="328" y="23" key="CommitChangelistDialog2/0.23.1366.691@0.23.1366.691" timestamp="1594335824789" />
+    <state x="100" y="123" width="1166" height="491" key="DiffContextDialog" timestamp="1594335479960">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="100" y="123" width="1166" height="491" key="DiffContextDialog/0.23.1366.691@0.23.1366.691" timestamp="1594335479960" />
+    <state width="1324" height="2" key="GridCell.Tab.0.bottom" timestamp="1594335692811">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="2" key="GridCell.Tab.0.bottom/0.23.1366.691@0.23.1366.691" timestamp="1594335692811" />
+    <state width="1324" height="2" key="GridCell.Tab.0.center" timestamp="1594335692810">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="2" key="GridCell.Tab.0.center/0.23.1366.691@0.23.1366.691" timestamp="1594335692810" />
+    <state width="1324" height="2" key="GridCell.Tab.0.left" timestamp="1594335692809">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="2" key="GridCell.Tab.0.left/0.23.1366.691@0.23.1366.691" timestamp="1594335692809" />
+    <state width="1324" height="2" key="GridCell.Tab.0.right" timestamp="1594335692810">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="2" key="GridCell.Tab.0.right/0.23.1366.691@0.23.1366.691" timestamp="1594335692810" />
+    <state width="1324" height="2" key="GridCell.Tab.1.bottom" timestamp="1594335736480">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="2" key="GridCell.Tab.1.bottom/0.23.1366.691@0.23.1366.691" timestamp="1594335736480" />
+    <state width="1324" height="2" key="GridCell.Tab.1.center" timestamp="1594335736479">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="2" key="GridCell.Tab.1.center/0.23.1366.691@0.23.1366.691" timestamp="1594335736479" />
+    <state width="1324" height="2" key="GridCell.Tab.1.left" timestamp="1594335736478">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="2" key="GridCell.Tab.1.left/0.23.1366.691@0.23.1366.691" timestamp="1594335736478" />
+    <state width="1324" height="2" key="GridCell.Tab.1.right" timestamp="1594335736479">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="2" key="GridCell.Tab.1.right/0.23.1366.691@0.23.1366.691" timestamp="1594335736479" />
+    <state x="171" y="23" key="SettingsEditor" timestamp="1594334734075">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="171" y="23" key="SettingsEditor/0.23.1366.691@0.23.1366.691" timestamp="1594334734075" />
+    <state width="683" height="345" key="XDebugger.FullValuePopup" timestamp="1594307373461">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="683" height="345" key="XDebugger.FullValuePopup/0.23.1366.691@0.23.1366.691" timestamp="1594307373461" />
+    <state x="100" y="123" width="1166" height="491" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594335479960">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="100" y="123" width="1166" height="491" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1366.691@0.23.1366.691" timestamp="1594335479960" />
+    <state x="376" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1594335535452">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="376" y="201" key="com.intellij.ide.util.TipDialog/0.23.1366.691@0.23.1366.691" timestamp="1594335535452" />
+    <state x="259" y="111" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594307408158">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="259" y="111" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1366.691@0.23.1366.691" timestamp="1594307408158" />
+    <state x="391" y="23" key="refactoring.ChangeSignatureDialog" timestamp="1594326417303">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="391" y="23" key="refactoring.ChangeSignatureDialog/0.23.1366.691@0.23.1366.691" timestamp="1594326417303" />
+    <state x="348" y="38" width="670" height="676" key="search.everywhere.popup" timestamp="1594333713720">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state x="348" y="38" width="670" height="676" key="search.everywhere.popup/0.23.1366.691@0.23.1366.691" timestamp="1594333713720" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ViberTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ViberTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ViberTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ViberTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ViberTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ViberTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ViberTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Viber$ViberTest_myFirstTest.ic" NAME="ViberTest.myFirstTest Coverage Results" MODIFIED="1594290411445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
