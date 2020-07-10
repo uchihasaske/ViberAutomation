@@ -22,11 +22,13 @@ public interface Constants {
     public static final String yes = "YES";
     public static final String deny = "DENY";
     public static final String allow = "ALLOW";
+    public static final String search = "Search!";
+
 
     //Make a properties file for below Constants and access them using Properties manager
     public static final String countryCode = "91";
     public static final String country = "India";
     public static final String phoneNo = "9559333249";
-    public static final String friendName = "Ashish cybage";
+    public static final String friendName = "Ashish G";
 
 }

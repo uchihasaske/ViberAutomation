@@ -1,4 +1,4 @@
-public interface XPaths {
+public interface Elements {
 
     public static final String welcomeMessageTitle = "com.viber.voip:id/welcome_item";
     public static final String welcomeMessage = "com.viber.voip:id/first_item";
@@ -46,4 +46,7 @@ public interface XPaths {
     public static final String inviteFriendsOnViber = "com.viber.voip:id/emptyStateButton";
 
     public static final String launchScreeenOk = "com.viber.voip:id/okBtn";
+
+    public static final String inviteSearchBox = "com.viber.voip:id/search";
+
 }
